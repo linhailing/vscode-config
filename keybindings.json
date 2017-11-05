@@ -1,0 +1,6 @@
+// Place your key bindings in this file to overwrite the defaults
+[
+  {"key": "alt+b","command": "HookyQR.beautify","when": "editorFocus"},
+  //给文件设置头部属性
+  {"key": "ctrl+alt+h","command": "extension.fileheader","when": "editorTextFocus"}
+]

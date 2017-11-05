@@ -2,5 +2,15 @@
 [
   {"key": "alt+b","command": "HookyQR.beautify","when": "editorFocus"},
   //给文件设置头部属性
-  {"key": "ctrl+alt+h","command": "extension.fileheader","when": "editorTextFocus"}
+  {
+    "key": "ctrl+alt+h",
+    "command": "extension.fileheader",
+    "when": "editorTextFocus"
+  },
+  // php 函数跳转
+  {
+    "key": "alt+t",
+    "command": "editor.action.goToDeclaration",
+    "when": "editorHasDefinitionProvider && editorTextFocus && !isInEmbeddedEditor"
+  }
 ]

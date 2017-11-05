@@ -132,3 +132,34 @@
 
   + Git History
 
+
+# markdown
+
+  这里连接的是印象笔记
+
+  + EverMonkey 
+
+  + markdownlint
+
+  + markdown Preview enhanced
+
+  + Auto-Open Markdown Preview
+
+    这里配置
+  
+
+# php
+
+  + php IntelliSense
+
+  + php DocBlocker
+
+  + Crane - PHP
+
+
+# python
+
+  + python
+
+  + vscode-flake8
+

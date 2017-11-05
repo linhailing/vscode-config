@@ -1,6 +1,7 @@
 {
-    "editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontFamily": "'source code pro',Menlo, Monaco, 'Courier New', monospace",
     "editor.tabSize": 2,
+    "editor.fontSize": 16,
     // 控制边栏的位置。它可显示在工作台的左侧或右侧。
     "workbench.sideBar.location": "right",
     // 格式化代码
@@ -18,5 +19,16 @@
         "html": "\"C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe\""
         //"java": "cd $dir && javac $fileName && java $fileNameWithoutExt",
         //"c": "cd $dir && gcc $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt"
-    }
+    },
+    "files.eol": "\n",
+    "[markdown]": {
+        "editor.quickSuggestions": true
+    },
+    "evermonkey.token": "hailing.lin@outlook.com",
+    "evermonkey.noteStoreUrl": "Lhl_883236",
+    "markdown.styles": [
+        "C:\\Users\\Administrator\\AppData\\Roaming\\Code\\User\\markdown.css"
+    ],
+    //python
+    "python.linting.flake8Enable": true
 }
